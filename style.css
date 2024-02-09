@@ -66,6 +66,18 @@ body {
     padding: 50px 0 20px;
   }
   
+  .bottom-container .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    color:#40514e
+    
+  }
+  
+  
   .skill-row {
     width: 50%;
     margin: 100px auto 100px auto;
